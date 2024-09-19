@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018369642186",
+    "project_id": "kotlin-firestoreapp",
+    "storage_bucket": "kotlin-firestoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018369642186:android:37fa80cebc1ed271052e33",
+        "android_client_info": {
+          "package_name": "com.aswin.firestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLGM5Zt6v2eyDmKHDaicAENCbp7T8nyAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
