@@ -134,7 +134,7 @@ service cloud.firestore {
 }
 ```
 
-   - 1. Add the Realtime Database SDK to your app
+   - Add the Firestore Database SDK to your app
 First go to Documentation for more details
 > **Reference URL -**  https://firebase.google.com/docs?authuser=0&hl=en
 Build -> Cloud Firestore/Firestore(From left side) -> Get started
